@@ -28,13 +28,13 @@ body {
 }
 
 a {
-  color: #FFD700;
+  color: #c39b55;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FFD700;
+  color: #c39b55;
   outline: none;
 }
 
@@ -44,7 +44,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
-  font-family: "Clicker Script", cursive;
+  font-family: 'Marck Script', cursive;
   font-weight: 400;
 }
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   }
   #qbootstrap-header .navbar-brand {
-    color: #FFD700 !important;
+    color: #c39b55 !important;
   }
   #qbootstrap-header #navbar li a {
     color: rgba(0, 0, 0, 0.5) !important;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: 0.3s;
   }
   #qbootstrap-header #navbar li a:hover {
-    color: #FFD700 !important;
+    color: #c39b55 !important;
   }
   #qbootstrap-header #navbar li a span:before {
     background: transparent !important;
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
   #qbootstrap-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: #FFD700 !important;
+    color: #c39b55 !important;
   }
   #qbootstrap-header #navbar li.active a span:before {
     visibility: visible;
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #FFD700;
+  background-color: #c39b55;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 34px;
   padding-left: 0;
   color: #fff;
-  font-family: "Clicker Script", cursive;
+  font-family: 'Marck Script', cursive;
 }
 #qbootstrap-header.navbar-fixed-top {
   position: fixed !important;
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
 }
 #qbootstrap-header.navbar-fixed-top .navbar-brand {
-  color: #FFD700;
+  color: #c39b55;
 }
 #qbootstrap-header.navbar-fixed-top #navbar li a {
   color: rgba(0, 0, 0, 0.5);
@@ -189,12 +189,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #qbootstrap-header.navbar-fixed-top #navbar li a:hover {
-  color: #FFD700;
+  color: #c39b55;
 }
 #qbootstrap-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
-  color: #FFD700;
+  color: #c39b55;
 }
 #qbootstrap-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #adadad;
 }
 #qbootstrap-header .navbar-default .brand-slogan em {
-  color: #FFD700;
+  color: #c39b55;
   font-style: normal;
 }
 #qbootstrap-header a {
@@ -250,11 +250,11 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 .section-heading.colored .svg {
-  fill: #FFD700;
+  fill: #c39b55;
 }
 .section-heading h2 {
   font-size: 80px;
-  color: #FFD700;
+  color: #c39b55;
   display: block;
   padding-bottom: 20px;
   line-height: 1.5;
@@ -500,7 +500,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-slider-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
-  background: #FFD700;
+  background: #c39b55;
 }
 #qbootstrap-slider-hero .flexslider .flex-direction-nav {
   display: none;
@@ -604,7 +604,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner .btn:hover {
-  background: #FFD700 !important;
+  background: #c39b55 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -619,8 +619,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-couple h3 {
   font-size: 34px;
-  font-family: "Clicker Script", cursive;
-  color: #FFD700;
+  font-family: 'Caveat', cursive;
+  color: #c39b55;
 }
 @media screen and (max-width: 768px) {
   #qbootstrap-couple h3 {
@@ -628,7 +628,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #qbootstrap-couple span {
-  color: #FFD700;
+  color: #c39b55;
   letter-spacing: 10px;
   text-transform: uppercase;
   font-size: 14px;
@@ -638,7 +638,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-couple .amp-center {
   font-size: 60px;
   margin-top: 100%;
-  color: #FFD700;
+  color: #c39b55;
 }
 @media screen and (max-width: 768px) {
   #qbootstrap-couple .amp-center {
@@ -646,7 +646,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #qbootstrap-couple .amp-center .colored .svg {
-  fill: #FFD700;
+  fill: #c39b55;
 }
 
 .qbootstrap-bg {
@@ -703,7 +703,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-countdown .countdown span {
   margin: 0 30px;
   display: inline-block;
-  font-family: "Clicker Script", cursive;
+  font-family: 'Caveat', cursive;
 }
 #qbootstrap-countdown .countdown small {
   display: block;
@@ -764,7 +764,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
 }
 .couple .desc h2 {
-  color: #FFD700;
+  color: #c39b55;
   font-size: 40px;
   margin-bottom: 30px;
 }
@@ -912,7 +912,7 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-title {
   margin-top: 0;
   font-size: 34px;
-  color: #FFD700;
+  color: #c39b55;
   margin-bottom: 30px;
 }
 
@@ -975,7 +975,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #qbootstrap-testimonials {
-  background: #FFD700;
+  background: #c39b55;
   z-index: 0;
 }
 #qbootstrap-testimonials .overlay {
@@ -1051,7 +1051,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 56px;
   height: 56px;
   margin-top: -30px;
-  background: #FFD700;
+  background: #c39b55;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1086,7 +1086,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
   font-size: 30px;
-  font-family: "Clicker Script", cursive;
+  font-family: 'Caveat', cursive;
   font-style: italic;
 }
 #qbootstrap-testimonials .arrow-thumb {
@@ -1130,7 +1130,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .groom-men h3 {
-  font-family: "Clicker Script", cursive;
+  font-family: 'Caveat', cursive;
   font-size: 28px;
 }
 
@@ -1167,7 +1167,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .wedding-events .desc h3 {
   font-size: 40px;
-  color: #FFD700;
+  color: #c39b55;
   display: block;
   margin-bottom: 40px;
 }
@@ -1194,7 +1194,7 @@ h1, h2, h3, h4, h5, h6 {
 .wedding-events .desc .icon i {
   color: #fff;
   padding: 15px;
-  background: #FFD700;
+  background: #c39b55;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1282,7 +1282,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-started .btn {
   height: 54px;
   border: none !important;
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1391,7 +1391,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   height: 2px;
   width: 30px;
-  background: #FFD700;
+  background: #c39b55;
 }
 #qbootstrap-press .qbootstrap-press-item .qbootstrap-press-img {
   position: absolute;
@@ -1417,7 +1417,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 .qbootstrap-nav-toggle.active i::before, .qbootstrap-nav-toggle.active i::after {
-  background: #FFD700;
+  background: #c39b55;
 }
 .qbootstrap-nav-toggle:hover, .qbootstrap-nav-toggle:focus, .qbootstrap-nav-toggle:active {
   outline: none;
@@ -1431,18 +1431,18 @@ h1, h2, h3, h4, h5, h6 {
   *display: inline;
   width: 25px;
   height: 3px;
-  color: #FFD700;
+  color: #c39b55;
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #FFD700;
+  background: #c39b55;
   transition: all .2s ease-out;
 }
 .qbootstrap-nav-toggle i::before, .qbootstrap-nav-toggle i::after {
   content: '';
   width: 25px;
   height: 3px;
-  background: #FFD700;
+  background: #c39b55;
   position: absolute;
   left: 0;
   -webkit-transition: 0.2s;
@@ -1549,14 +1549,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #FFD700;
+  background: #c39b55;
 }
 .btn:hover, .btn:active, .btn:focus {
   background: #393e46 !important;
@@ -1596,11 +1596,11 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
 }
 .social li a.social-circle {
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1611,11 +1611,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #393e46 !important;
 }
 .social.social-box a {
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
 }
 .social.social-circle a {
-  background: #FFD700;
+  background: #c39b55;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1674,7 +1674,7 @@ h1, h2, h3, h4, h5, h6 {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FFD700;
+  border-color: #c39b55;
 }
 
 .js .animate-box {
@@ -1686,6 +1686,11 @@ h1, h2, h3, h4, h5, h6 {
   animation-duration: .3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+}
+
+#qbootstrap-map {
+  width: 100%;
+  height: 400px;
 }
 
 /*# sourceMappingURL=style.css.map */
