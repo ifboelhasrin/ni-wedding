@@ -16,7 +16,7 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.8;
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #qbootstrap-header #navbar li a {
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
   color: rgba(255, 255, 255, 0.5);
   position: relative;
 }
@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
 .qbootstrap-cover .display-tc .holder,
 .video-hero .display-tc .holder {
   color: #fff;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -534,7 +534,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner .holder {
   color: #fff;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -579,7 +579,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 40px;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(255, 255, 255, 0.5);
@@ -708,7 +708,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-countdown .countdown small {
   display: block;
   font-size: 14px;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Satisfy', Arial, sans-serif;
   letter-spacing: 10px;
   text-transform: uppercase;
 }
