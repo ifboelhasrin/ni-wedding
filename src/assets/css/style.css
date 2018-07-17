@@ -16,7 +16,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.8;
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #qbootstrap-header #navbar li a {
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
   color: rgba(255, 255, 255, 0.5);
   position: relative;
 }
@@ -346,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   .qbootstrap-cover,
   .video-hero {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
 .qbootstrap-cover .display-tc .holder,
 .video-hero .display-tc .holder {
   color: #fff;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -534,7 +534,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner .holder {
   color: #fff;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -579,7 +579,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 40px;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(255, 255, 255, 0.5);
@@ -619,7 +619,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-couple h3 {
   font-size: 34px;
-  font-family: 'Caveat', cursive;
+  font-family: 'Marck Script', cursive;
   color: #c39b55;
 }
 @media screen and (max-width: 768px) {
@@ -703,12 +703,12 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-countdown .countdown span {
   margin: 0 30px;
   display: inline-block;
-  font-family: 'Caveat', cursive;
+  font-family: 'Marck Script', cursive;
 }
 #qbootstrap-countdown .countdown small {
   display: block;
   font-size: 14px;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: 'Caveat', Arial, sans-serif;
   letter-spacing: 10px;
   text-transform: uppercase;
 }
@@ -1086,7 +1086,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
   font-size: 30px;
-  font-family: 'Caveat', cursive;
+  font-family: 'Marck Script', cursive;
   font-style: italic;
 }
 #qbootstrap-testimonials .arrow-thumb {
@@ -1130,7 +1130,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .groom-men h3 {
-  font-family: 'Caveat', cursive;
+  font-family: 'Marck Script', cursive;
   font-size: 28px;
 }
 
