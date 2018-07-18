@@ -1276,6 +1276,9 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-started .form-control:-ms-input-placeholder {
   color: #fff;
 }
+#qbootstrap-started .form-check-label{
+  color: #fff;
+}
 #qbootstrap-started .form-control:focus {
   background: rgba(255, 255, 255, 0.3);
 }
