@@ -244,6 +244,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   padding: 0;
 }
+
+.section-heading.svg-sm-2 .png {
+  height: 400px;
+  margin-bottom: 0;
+  padding: 0;
+}
+
 .section-heading.svg-sm .svg {
   height: 180px;
   margin-bottom: -80px;
@@ -452,6 +459,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 180px;
   margin-bottom: 0;
 }
+
+.qbootstrap-cover .display-tc .svg-sm .svg,
+.video-hero .display-tc .svg-sm .png {
+  height: 20px;
+  margin-bottom: 0;
+}
+
 .qbootstrap-cover .display-tc .colored .svg,
 .video-hero .display-tc .colored .svg {
   fill: #fff;
@@ -649,6 +663,13 @@ h1, h2, h3, h4, h5, h6 {
   fill: #c39b55;
 }
 
+#qbootstrap-couple .section-heading.svg-sm .png {
+  fill: #c39b55;
+  height: 300px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
 .qbootstrap-bg {
   background-size: cover;
   position: relative;
@@ -682,6 +703,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: -50px;
   padding: 0;
 }
+
 #qbootstrap-countdown .section-heading.colored .svg {
   fill: #fff;
 }
@@ -1200,6 +1222,13 @@ h1, h2, h3, h4, h5, h6 {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+
+.qbootstrap-map {
+  background: #000;
+  width: 100%;
+  height: 400px;
+}
+
 @media screen and (max-width: 768px) {
   .wedding-events .desc .icon {
     position: relative;
@@ -1691,9 +1720,6 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
-#qbootstrap-map {
-  width: 100%;
-  height: 400px;
-}
+
 
 /*# sourceMappingURL=style.css.map */
