@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-heading.svg-sm-2 .png {
-  height: 400px;
+  height: 300px;
   margin-bottom: 0;
   padding: 0;
 }
@@ -665,7 +665,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #qbootstrap-couple .section-heading.svg-sm .png {
   fill: #c39b55;
-  height: 300px;
+  height: 200px;
   margin-bottom: 10px;
   padding: 0;
 }
