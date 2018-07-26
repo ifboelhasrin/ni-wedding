@@ -663,6 +663,15 @@ h1, h2, h3, h4, h5, h6 {
   fill: #c39b55;
 }
 
+#qbootstrap-couple .amp-center .colored .png {
+  fill: #c39b55;
+  height: 100px;
+}
+
+#qbootstrap-couple .amp-center .svg {
+  fill: #c39b55;
+}
+
 #qbootstrap-couple .section-heading.svg-sm .png {
   fill: #c39b55;
   height: 200px;
