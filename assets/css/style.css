@@ -16,12 +16,12 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.8;
   color: #777777;
-  color: #7f7f7f;
+  color: #bfbfbf;
   background: #000;
   height: 100%;
   position: relative;
@@ -42,9 +42,15 @@ p {
   margin-bottom: 1.5em;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   color: #fff;
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+}
+
+h3, h4, h5, h6 {
+  color: #fff;
+  font-family: 'Itim', cursive;
   font-weight: 400;
 }
 
@@ -111,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #qbootstrap-header #navbar li a {
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
   color: rgba(255, 255, 255, 0.5);
   position: relative;
 }
@@ -167,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 34px;
   padding-left: 0;
   color: #fff;
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
 }
 #qbootstrap-header.navbar-fixed-top {
   position: fixed !important;
@@ -379,7 +385,7 @@ h1, h2, h3, h4, h5, h6 {
 .qbootstrap-cover .display-tc .holder,
 .video-hero .display-tc .holder {
   color: #fff;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -451,7 +457,7 @@ h1, h2, h3, h4, h5, h6 {
 .video-hero .display-tc p {
   color: #fff;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: 10px;
 }
 .qbootstrap-cover .display-tc .svg-sm .svg,
@@ -548,7 +554,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner .holder {
   color: #fff;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -590,10 +596,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h2 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.5;
   margin-bottom: 40px;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(255, 255, 255, 0.5);
@@ -609,7 +615,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #fff;
 }
 #qbootstrap-slider-hero .flexslider .slider-text > .slider-text-inner .btn {
-  padding: 18px 30px !important;
+  padding: 20px 30px !important;
   color: #fff;
   border: none !important;
   font-size: 12px;
@@ -633,7 +639,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-couple h3 {
   font-size: 34px;
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
   color: #c39b55;
 }
 @media screen and (max-width: 768px) {
@@ -734,12 +740,12 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-countdown .countdown span {
   margin: 0 30px;
   display: inline-block;
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
 }
 #qbootstrap-countdown .countdown small {
   display: block;
   font-size: 14px;
-  font-family: 'Caveat', Arial, sans-serif;
+  font-family: 'Itim', Arial, sans-serif;
   letter-spacing: 10px;
   text-transform: uppercase;
 }
@@ -1098,7 +1104,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-testimonials .box-testimony .author {
   line-height: 20px;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   margin-left: 20px;
 }
 #qbootstrap-testimonials .box-testimony .author .subtext {
@@ -1117,7 +1123,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
   font-size: 30px;
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
   font-style: italic;
 }
 #qbootstrap-testimonials .arrow-thumb {
@@ -1161,7 +1167,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .groom-men h3 {
-  font-family: 'Marck Script', cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 28px;
 }
 
@@ -1180,6 +1186,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 400px;
 }
+
 .wedding-events .desc {
   padding: 2em;
   border: 1px solid rgba(0, 0, 0, 0.05);
@@ -1197,6 +1204,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: -1;
 }
 .wedding-events .desc h3 {
+  font-family: 'Pacifico', cursive;
   font-size: 40px;
   color: #c39b55;
   display: block;
@@ -1208,7 +1216,7 @@ h1, h2, h3, h4, h5, h6 {
 .wedding-events .desc .date span {
   display: block;
   font-size: 16px;
-  color: rgba(0, 0, 0, 0.7);
+  color: #fff;
 }
 .wedding-events .desc .icon-tip {
   position: relative;
@@ -1422,7 +1430,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px 0;
   padding: 0 0 10px 0;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   color: #444;
   position: relative;
 }
@@ -1575,7 +1583,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
+  color: #bfbfbf;
 }
 #footer .copyright {
   margin-bottom: 0px;
