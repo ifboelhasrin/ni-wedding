@@ -308,7 +308,7 @@
 	});
 
 
-	(function() {
+	/*(function() {
   function validEmail(email) {
     var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
     return re.test(email);
@@ -374,11 +374,10 @@
 	    var form = event.target;
 	    var data = getFormData(form);         // get the values submitted in the form
 
-	    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
+	     OPTION: Remove this comment to enable SPAM prevention, see README.md
 	    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
 	      return false;
 	    }
-	    */
 
 	    if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
 	      var invalidEmail = form.querySelector(".email-invalid");
@@ -430,7 +429,7 @@
 	      buttons[i].disabled = true;
 	    }
 	  }
-	})();
+	})();*/
 
 
 }());

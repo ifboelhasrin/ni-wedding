@@ -1340,6 +1340,13 @@ h3, h4, h5, h6 {
   padding-left: 50px;
   padding-right: 50px;
 }
+
+#qbootstrap-started .thankyou_message {
+  color: #fff;
+  font-family: 'Itim', cursive;
+  font-weight: 400;
+}
+
 #qbootstrap-started .form-inline .form-group {
   width: 100% !important;
   margin-bottom: 10px;
